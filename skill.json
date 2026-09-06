@@ -1,0 +1,12 @@
+{
+  "name": "genpark-conversational-filler-audio-latency-masker-skill",
+  "version": "1.0.0",
+  "description": "Conversational audio acoustic filler injector masking LLM inference and TTS latency with contextual conversational cues.",
+  "category": "Voice AI & Real-Time Audio Streaming",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-conversational-filler-audio-latency-masker-skill",
+  "verified": true,
+  "stars": 8
+}
